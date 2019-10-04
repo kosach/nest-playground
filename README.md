@@ -5,11 +5,7 @@
 ## Installation
 
 ```bash
-<<<<<<< HEAD
-$ npm installgit 
-=======
 $ npm install
->>>>>>> 71414e3349aa36c8026f3bb87351878189dbc521
 ```
 
 ## Running the app
