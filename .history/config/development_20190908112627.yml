@@ -1,9 +1,0 @@
-db:
-  host: 'localhost'
-    username: 'adsas',
-    password: 'devpasswd',
-    database: 'taskmanagment',
-    synchronize: true,
-
-jwt:
-  secret: 'topSecret51'
