@@ -1,0 +1,9 @@
+db:
+  host: 'localhost'
+    username: 'api_role'
+    password: 'devpasswd'
+    database: 'taskmanagment'
+    synchronize: true
+
+jwt:
+  secret: 'topSecret51'
